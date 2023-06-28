@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="species">
+        <item>Select Species</item>
+        <item>maltese</item>
+        <item>Golden Retriever</item>
+        <item>Dachshund</item>
+        <item>Poodle</item>
+        <item>Samoyed</item>
+        <item>Beagle</item>
+        <item>Welsh Corgi</item>
+        <item>Chihuahua</item>
+        <item>Pomeranian</item>
+        <item>Mix</item>
+
+    </string-array>
+</resources>

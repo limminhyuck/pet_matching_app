@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:id="@+id/related_f2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="즐겨찾기"
+            android:textSize="20sp"
+            android:textColor="@color/red"
+            android:drawableStart="@drawable/ic_baseline_turned_in_24"
+            android:padding="10dp"
+            android:drawablePadding="10dp"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:id="@+id/your_Question_f2">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="내가 쓴 글"
+            android:textSize="20sp"
+            android:textColor="@color/red"
+            android:drawableStart="@drawable/ic_baseline_settings_backup_restore_24"
+            android:padding="10dp"
+            android:drawablePadding="10dp"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

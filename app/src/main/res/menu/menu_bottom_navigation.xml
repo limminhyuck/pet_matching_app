@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_home"
+        android:title="home"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/menu_meeting"
+        android:title="community"
+        android:icon="@drawable/community"/>
+<!--    <item android:id="@+id/menu_mail"-->
+<!--        android:title="mail"-->
+<!--        android:icon="@drawable/mail"/>-->
+<!--    <item android:id="@+id/menu_location"-->
+<!--        android:title="location"-->
+<!--        android:icon="@drawable/location"/>-->
+    <item android:id="@+id/menu_community"
+        android:title="story"
+        android:icon="@drawable/meeting"/>
+</menu>
